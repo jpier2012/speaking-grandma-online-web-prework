@@ -19,6 +19,7 @@ def speak_to_grandma statement
       "I LOVE YOU TOO PUMPKIN!"
   else
     "NO, NOT SINCE 1938!"
+  end
 end
 
 speak_to_grandma "ALL CAPS"
