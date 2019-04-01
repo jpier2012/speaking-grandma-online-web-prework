@@ -15,7 +15,7 @@
 def speak_to_grandma statement
   if statement != statement.upcase
     "HUH?! SPEAK UP, SONNY!"
-  elsif statement == "I LOVE YOU, GRANDMA!"
+  elsif statement == "I LOVE YOU GRANDMA!"
       "I LOVE YOU TOO PUMPKIN!"
   else
     "NO, NOT SINCE 1938!"
@@ -24,4 +24,4 @@ end
 
 puts speak_to_grandma "ALL CAPS"
 puts speak_to_grandma "lowercase"
-puts speak_to_grandma "I LOVE YOU, GRANDMA!"
+puts speak_to_grandma "I LOVE YOU GRANDMA!"
