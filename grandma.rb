@@ -22,6 +22,6 @@ def speak_to_grandma statement
   end
 end
 
-speak_to_grandma "ALL CAPS"
-speak_to_grandma "lowercase"
-speak_to_grandma "I LOVE YOU, GRANDMA!"
+puts speak_to_grandma "ALL CAPS"
+puts speak_to_grandma "lowercase"
+puts speak_to_grandma "I LOVE YOU, GRANDMA!"  
