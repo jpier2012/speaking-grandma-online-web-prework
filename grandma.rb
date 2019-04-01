@@ -24,4 +24,4 @@ end
 
 speak_to_grandma "ALL CAPS"
 speak_to_grandma "lowercase"
-speak_to_grandma "I LOVE YOU, GRANDMA!"  
+speak_to_grandma "I LOVE YOU, GRANDMA!"
